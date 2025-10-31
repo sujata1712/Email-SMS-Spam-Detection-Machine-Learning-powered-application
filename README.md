@@ -33,9 +33,17 @@ The project includes both the model training pipeline (Jupyter Notebook) and a S
 
 ---
 # Running the Streamlit App
+Install requirements (recommended: create a new virtual environment):
+
+```bash
+pip install -r requirements.txt
+```
+
 Run the following command inside the project directory:
 
 ```bash
 streamlit run app.py
+```
 
-  
+## License
+This project is licensed under the MIT License — see the LICENSE file for details.
